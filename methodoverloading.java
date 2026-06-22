@@ -14,9 +14,7 @@ class methodoverloading {
     }
 
     public static void main(String[] args) {
-        Test t = new Test();
-        t.show(10, 20);
-        t.show("Hello");
+        
     }
 }
 

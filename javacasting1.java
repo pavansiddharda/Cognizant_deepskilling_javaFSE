@@ -10,5 +10,5 @@ public class javacasting1 {
      System.out.println("b(float):"+b);
      System.out.println(result);
 
-    
+    }
 }
