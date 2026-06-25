@@ -4,6 +4,7 @@ public class wideningchain {
         short b2=b1;
         int i=b2;
         long l=i;
+        System.out.println("Widening conversion from byte to short to int to long");
         System.out.println("byte value:"+b1);
         System.out.println("short value:"+b2);
         System.out.println("int value:"+i);
