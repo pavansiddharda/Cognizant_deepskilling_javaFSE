@@ -5,6 +5,6 @@ public class spiltting {
         for(String fruit:fruits){
             System.out.println(fruit);
         }
-String joined=String.join("-","java","python","c++");
+String joined=String.join("- ","java","python","c++");
     }
 }
