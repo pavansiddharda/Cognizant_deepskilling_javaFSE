@@ -8,8 +8,6 @@ public class RelationalOperatorsDemo {
         System.out.println("a < b: " + (a < b));
         System.out.println("a >= b: " + (a >= b));
         System.out.println("a <= b: " + (a <= b));
-
-        // Comparing floating-point numbers
         double x = 5.5, y = 5.5;
         System.out.println("x == y: " + (x == y));
 
